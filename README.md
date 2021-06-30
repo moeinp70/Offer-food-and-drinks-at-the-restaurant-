@@ -2,5 +2,7 @@
 Load the facts.clp file. 
 
 Load the rules.clp file. 
+
 Reset. 
+
 Run. 
